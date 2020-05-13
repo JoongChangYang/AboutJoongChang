@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/AboutJoongChang/static/css/main.a2bcf41e.chunk.css",
+    "main.js": "/AboutJoongChang/static/js/main.ccf91bbd.chunk.js",
+    "main.js.map": "/AboutJoongChang/static/js/main.ccf91bbd.chunk.js.map",
+    "runtime-main.js": "/AboutJoongChang/static/js/runtime-main.f75a7feb.js",
+    "runtime-main.js.map": "/AboutJoongChang/static/js/runtime-main.f75a7feb.js.map",
+    "static/js/2.c2876ab3.chunk.js": "/AboutJoongChang/static/js/2.c2876ab3.chunk.js",
+    "static/js/2.c2876ab3.chunk.js.map": "/AboutJoongChang/static/js/2.c2876ab3.chunk.js.map",
+    "index.html": "/AboutJoongChang/index.html",
+    "precache-manifest.585a3c856f3dc60be73777e1aa0eea9a.js": "/AboutJoongChang/precache-manifest.585a3c856f3dc60be73777e1aa0eea9a.js",
+    "service-worker.js": "/AboutJoongChang/service-worker.js",
+    "static/css/main.a2bcf41e.chunk.css.map": "/AboutJoongChang/static/css/main.a2bcf41e.chunk.css.map",
+    "static/media/index.css": "/AboutJoongChang/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/contactMail.png": "/AboutJoongChang/static/media/contactMail.d6d4086f.png",
+    "static/media/developerActivity.svg": "/AboutJoongChang/static/media/developerActivity.59389695.svg",
+    "static/media/all.css": "/AboutJoongChang/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/logo.svg": "/AboutJoongChang/static/media/logo.25bf045c.svg",
+    "static/media/manOnTable.svg": "/AboutJoongChang/static/media/manOnTable.52be3144.svg",
+    "static/media/skill.svg": "/AboutJoongChang/static/media/skill.34409398.svg",
+    "static/media/TalkCard.css": "/AboutJoongChang/static/media/talksCardBack.0288c5ec.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f75a7feb.js",
+    "static/js/2.c2876ab3.chunk.js",
+    "static/css/main.a2bcf41e.chunk.css",
+    "static/js/main.ccf91bbd.chunk.js"
+  ]
+}

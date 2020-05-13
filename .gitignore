@@ -30,4 +30,26 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# See https://help.github.com/articles/ignoring-files/ for more about ignori    ng files.
+  2
+  3 # dependencies
+  4 /node_modules
+  5 /.pnp
+  6 .pnp.js
+  7
+  8 # testing
+  9 /coverage
+ 10 /build
+ 11
+ 12
+ 13 # misc
+ 15 .env.local
+ 16 .env.development.local
+ 17 .env.test.local
+ 18 .env.production.local
+ 19
+ 20 npm-debug.log*
+ 21 yarn-debug.log*
+ 22 yarn-error.log*
+
 # End of https://www.gitignore.io/api/macos

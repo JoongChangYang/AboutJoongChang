@@ -3,6 +3,10 @@
 # Edit at https://www.gitignore.io/?templates=node,macos
 
 
+
+build/
+yarn.lock
+
 ### macOS ###
 # General
 .DS_Store
